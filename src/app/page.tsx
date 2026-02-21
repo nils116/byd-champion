@@ -350,7 +350,7 @@ export default function Game() {
                 <p className="text-lg mb-2">🚗💭 Good memories though!</p>
                 <p className="text-gray-300">
                   {(selectedChar === "nils" ? "Nils" : "Kim") + " learned a valuable lesson: "}
-                  BYD > Arona in every race! 
+                  BYD {'>'} Arona in every race! 
                 </p>
               </div>
               <p className="text-cyan-400 text-lg">Try again with the BYD! ⚡</p>
