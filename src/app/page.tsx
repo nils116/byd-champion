@@ -277,9 +277,9 @@ export default function Game() {
               <div className="flex flex-col items-center">
                 {selectedChar === "nils" ? <NilsAvatar /> : <KimAvatar />}
                 {selectedCar === "byd" ? (
-                  <BYDCar className="w-20 h-10" /
+                  <BYDCar className="w-20 h-10" />
                 ) : (
-                  <AronaCar className="w-20 h-10" /
+                  <AronaCar className="w-20 h-10" />
                 )}
               </div>
             </div>
