@@ -292,9 +292,9 @@ export default function Game() {
               <div className="flex flex-col items-center">
                 <div className="w-12 h-12 rounded-full bg-gray-500 flex items-center justify-center text-2xl">🤖</div>
                 {selectedCar === "byd" ? (
-                  <AronaCar className="w-20 h-10 opacity-70" /
+                  <AronaCar className="w-20 h-10 opacity-70" />
                 ) : (
-                  <BYDCar className="w-20 h-10 opacity-70" /
+                  <BYDCar className="w-20 h-10 opacity-70" />
                 )}
               </div>
             </div>
