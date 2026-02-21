@@ -89,7 +89,7 @@ export default function Game() {
       <path d="M22 40 Q20 25 35 18 Q50 12 65 18 Q80 25 78 40" fill="#1a1a2e" />
       {/* Eyes */}
       <circle cx="42" cy="42" r="3" fill="#1a1a2e" />
-      <circle cx="58" cy="42" r="3" fill="#1a1a2e" /
+      <circle cx="58" cy="42" r="3" fill="#1a1a2e" />
       {/* Smile */}
       <path d="M42 52 Q50 58 58 52" stroke="#1a1a2e" strokeWidth="2" fill="none" />
       {/* Body */}
